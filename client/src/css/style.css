@@ -16,6 +16,10 @@ body {
     sans-serif;
 }
 
+.hidden {
+  display: none;
+}
+
 h1 {
   font-size: 22px;
 }
